@@ -1,0 +1,1 @@
+#Moduł do pierwszych zadań w "Pakiety i Moduły"
